@@ -17,7 +17,6 @@ We specialize in full-cycle web development — from concept and architecture to
 *   Exploring modern **Vue 3** and its ecosystem
 
 ### 📫 How to Reach Me
-*   **Telegram:** [@kmx_su](https://t.me/kmx_su)
 *   **Email:** victor@yunusov.su
 *   **Website:** [https://kmx.su](https://kmx.su)
 
