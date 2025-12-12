@@ -1,14 +1,31 @@
-👋 Hi, I'm Victor (aka @exdk), CTO and Lead Developer at [KMX.su](https://kmx.su).
+# 👋 Hi, I'm Victor
 
-I specialize in full-cycle web development — from concept and architecture to deployment and support.
+**Founder & Lead Developer** building business automation systems with **PHP (Laravel)**.
 
-### 🛠️ Tech Stack
-*   **Backend & APIs:** PHP, Go (Golang)
-*   **Frontend:** Vue.js, JavaScript
-*   **Mobile:** Swift (iOS) / Unity
-*   **Infrastructure:** Linux, CI/CD
-*   **Databases:** MySQL, PostgreSQL
+I transitioned from 14 years in production/logistics management to development. Now I build the **backend "engine"** for complex systems like WMS, IoT dashboards, and internal tools—where business logic meets clean code.
 
-### 📫 How to Reach Me
+---
+
+### 🧠 Expertise
+
+*   **Backend:** PHP 8.x, Laravel (Eloquent, Queues, REST API, WebSockets)
+*   **Integrations:** 1C (WMS/UT), IoT device APIs, data parsers (C#/.NET)
+*   **Frontend:** Vue.js 3, Bootstrap Vue
+*   **Infra:** Ansible AWX, CI/CD, MySQL/PostgreSQL, Redis
+
+---
+
+### 🚀 Featured Projects
+
+*   **3PL Personal Account** – Laravel service with real-time sync to 1C WMS.
+*   **IoT Management Dashboard** – Real-time control panel (Laravel + Vue + WebSockets).
+*   **High-performance parsers** – Multithreaded data aggregation (C#).
+
+> More case studies: [kmx.su](https://kmx.su)
+
+---
+
+### 📫 Connect
+
 *   **Email:** victor@yunusov.su
-*   **Website:** [https://kmx.su](https://kmx.su)
+*   **Portfolio:** [kmx.su](https://kmx.su)
