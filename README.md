@@ -12,6 +12,7 @@ I transitioned from 14 years in production/logistics management to development. 
 *   **Integrations:** 1C (WMS/UT), IoT device APIs, data parsers (C#/.NET)
 *   **Frontend:** Vue.js 3, Bootstrap Vue
 *   **Infra:** Ansible AWX, CI/CD, MySQL/PostgreSQL, Redis
+*   **Mobile:** Swift
 
 ---
 
