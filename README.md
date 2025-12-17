@@ -28,6 +28,6 @@ I transitioned from 14 years in production/logistics management to development. 
 
 ### 📫 Connect
 
-*   **Telegram:** @kmxsu
+*   **Telegram:** [@kmxsu](https://t.me/kmxsu)
 *   **Email:** victor@yunusov.su
 *   **Portfolio:** [kmx.su](https://kmx.su)
